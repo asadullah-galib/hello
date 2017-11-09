@@ -2,3 +2,6 @@ pull checking
 
 
 after pulling edit and push to server
+
+
+changing to server and pull
