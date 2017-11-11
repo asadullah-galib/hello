@@ -1,2 +1,4 @@
 this is test file number three
 to test git diff
+
+staged
